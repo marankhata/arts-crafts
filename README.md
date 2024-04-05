@@ -17,7 +17,10 @@ A simple Flutter project for arts and crafts enthusiasts, offering a curated sel
 
 ## Screenshots
 
-![Homepage](assets/images/ecommerce1.png)
-![Store Page](assets/images/ecommerce2.png)
-![Cart Page](assets/images/ecommerce3.png)
-![Drawer](assets/images/ecommerce4.png)
+| Homepage | Store Page |
+|----------|------------|
+| ![Homepage](assets/images/ecommerce1.png) | ![Store Page](assets/images/ecommerce2.png) |
+
+| Cart Page | Drawer |
+|-----------|--------|
+| ![Cart Page](assets/images/ecommerce3.png) | ![Drawer](assets/images/ecommerce4.png) |
