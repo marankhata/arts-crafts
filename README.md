@@ -14,3 +14,10 @@ A simple Flutter project for arts and crafts enthusiasts, offering a curated sel
 2. Navigate to the project directory.
 3. Install dependencies.
 4. Run the app.
+
+## Screenshots
+
+![Homepage](assets/images/ecommerce1.png)
+![Store Page](assets/images/ecommerce2.png)
+![Cart Page](assets/images/ecommerce3.png)
+![Drawer](assets/images/ecommerce4.png)
